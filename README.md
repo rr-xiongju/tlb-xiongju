@@ -1,7 +1,7 @@
-![tlb-xiong](https://github-readme-stats.vercel.app/api?username=tlb-xiongju&show_icons=true&theme=graywhite&count_private=true)
+![rr-xiong](https://github-readme-stats.vercel.app/api?username=rr-xiongju&show_icons=true&theme=graywhite&count_private=true)
 
 <!--
-**tlb-xiongju/tlb-xiongju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rr-xiongju/rr-xiongju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
